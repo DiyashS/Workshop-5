@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Inter;
+    background-color: #ffba00;
+    text-align: center;
+}
+
+.head{
+    border: 3px solid transparent;
+    display: block;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    font-size: 30px;
+}
+
+.all{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    line-height: 40px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 800;
+}
+
+p{
+    font-size: 20px;
+}
+
+h3{
+    font-weight: 700;
+}
+
+.nashi{
+    border: 3px solid transparent;
+}
+
+.yugayn{
+    border: 3px solid transparent;
+}
+
+.abraham{
+    border: 3px solid transparent;
+}
+
+img{
+    height: 400px;
+    width: 300px;
+}
